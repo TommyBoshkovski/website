@@ -5,7 +5,7 @@ meta_description: "qMRLab - Quantitative MRI under one umbrella"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/icon.png'
 baseurl: 'https://tommyboshkovski.github.io/website'
-google_analytics: 'UA-116897577-1'
+google_analytics: ''
 disqus: 'qmrlab'
 
 # Authors
